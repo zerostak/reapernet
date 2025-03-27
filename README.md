@@ -4,8 +4,11 @@ Reapernet is a simple Windows stealer.
 Article that help to develop the program: [decrypting-browser-passwords-other-secrets](https://www.alertra.com/blog/decrypting-browser-passwords-other-secrets)
 
 ## Abilities:
- -  Browsers: Brave, Chrome, Microsoft Edge, Opera, Vivaldi, Firefox (Under development).
+ -  Browsers: Brave, Chrome, Microsoft Edge, Opera, Vivaldi.
  -  Extract Files: Configure extension files.
+
+## Incoming Abilities:
+ -  Browsers: Firefox, Cookies.
  -  Become a RAT on special domains from browser logs (Under development).
  -  Become a Miner on non special devices (Under development).
 

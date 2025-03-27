@@ -1,5 +1,5 @@
 ## Reapernet
-Reapernet is a simple Windows stealer.
+Reapernet is a simple Windows stealer written on Rust.
 
 Article that help to develop the program: [decrypting-browser-passwords-other-secrets](https://www.alertra.com/blog/decrypting-browser-passwords-other-secrets)
 

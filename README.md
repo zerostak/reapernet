@@ -9,8 +9,8 @@ Article that help to develop the program: [decrypting-browser-passwords-other-se
 
 ## Incoming Abilities:
  -  Browsers: Firefox, Cookies.
- -  Become a RAT on special domains from browser logs (Under development).
- -  Become a Miner on non special devices (Under development).
+ -  Become a RAT on special domains from browser logs.
+ -  Become a Miner on non special devices.
 
 ## Poc:
 https://github.com/user-attachments/assets/c1149bb1-e317-4a98-828c-6af36a66a7bb

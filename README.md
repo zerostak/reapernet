@@ -9,7 +9,7 @@ Article that help to develop the program: [decrypting-browser-passwords-other-se
 ## Incoming Abilities:
  -  Browsers: Firefox and Browser Cookie management.
  -  File Extraction: Based on file extension.
- -  RAT: Deploy a RAT on special domain devices within specified domains.
+ -  RAT: Deploy a (Remote Access Trojan) on special domain devices within specified domains.
  -  Crypto Miner: Download a Miner on non special domain device.
 
 ## Poc:

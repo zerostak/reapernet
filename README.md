@@ -3,7 +3,7 @@ Reapernet is a simple Windows stealer.
 
 ## Abilities:
  -  Browsers: Brave, Chrome, Microsoft Edge, Opera, Vivaldi, Firefox (Under development).
- -  Files: Configure extension files.
+ -  Extract Files: Configure extension files.
  -  Become a RAT on special domains from browser logs (Under development).
  -  Become a Miner on non special devices (Under development).
 

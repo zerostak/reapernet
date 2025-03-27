@@ -11,3 +11,4 @@ Reapernet is a simple Windows stealer.
 https://github.com/user-attachments/assets/c1149bb1-e317-4a98-828c-6af36a66a7bb
 
 ## For Educational Purposes Only
+I'm not responsible for any illegal or improper use of this program.

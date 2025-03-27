@@ -1,0 +1,16 @@
+[package]
+name = "reapernet"
+version = "0.2.0"
+edition = "2024"
+
+[dependencies]
+aes-gcm = "0.10.3"
+base64 = "0.22.1"
+rand = "0.9.0"
+reqwest = { version = "0.12.15", features = ["json"] }
+rsa = "0.9.8"
+rusqlite = { version = "0.34.0", features = ["bundled"] }
+serde = { version = "1.0.219", features = ["derive"] }
+serde_json = "1.0.140"
+tokio = { version = "1.44.1", features = ["full"] }
+winapi = { version = "0.3.9", features = ["dpapi", "winbase"] }

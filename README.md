@@ -4,7 +4,7 @@ Reapernet is a simple Windows stealer written on Rust.
 Article that help to develop the program: [decrypting-browser-passwords-other-secrets](https://www.alertra.com/blog/decrypting-browser-passwords-other-secrets)
 
 ## Abilities:
- -  Browsers logs: Brave, Chrome, Microsoft Edge, Opera, Vivaldi.
+ -  Browsers supported: Chromium based.
 
 ## Incoming Abilities:
  -  Browsers: +Browsers and Cookie management.

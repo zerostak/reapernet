@@ -7,7 +7,7 @@ Article that help to develop the program: [decrypting-browser-passwords-other-se
  -  Browsers logs: Brave, Chrome, Microsoft Edge, Opera, Vivaldi.
 
 ## Incoming Abilities:
- -  Browsers: Firefox and Browser Cookie management.
+ -  Browsers: +Browsers and Cookie management.
  -  File Extraction: Based on file extension.
  -  RAT: Deploy a (Remote Access Trojan) on special domain devices within specified domains.
  -  Crypto Miner: Download a Miner on non special domain device.
